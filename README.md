@@ -7,10 +7,11 @@ I am a **Software Engineer** passionate about building scalable, user-centric we
 ### 🛠️ Tech Stack & Skills
 
 - **Backend Frameworks:** Django, Flask
+- **Frontend & Libraries:** React.js, Responsive Web Design, UI/UX Layouts
+- **Databases & Cloud:** PostgreSQL, MySQL, Firebase
 - **Payment & APIs:** M-Pesa Integration (Daraja API)
 - **DevOps & Containers:** Docker
 - **Languages:** Python, JavaScript, HTML5, CSS3
-- **Frontend Development:** Responsive Web Design, UI/UX Layouts
 - **Tools & Ecosystem:** Git, GitHub, VS Code, AI Tooling Integration
 
 ---
